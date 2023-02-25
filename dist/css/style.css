@@ -58,16 +58,16 @@ a:active {
   padding: 2.5rem;
 }
 .grid__main {
-  background-color: hsl(240deg, 99%, 33%);
+  background-color: hsl(240, 99%, 33%);
 }
 @media (min-width: 43.75em) {
   .grid__main {
-    background-color: hsl(120deg, 100%, 16%);
+    background-color: hsl(120, 100%, 16%);
   }
 }
 @media (min-width: 56.25em) {
   .grid__main {
-    background-color: hsl(39deg, 100%, 35%);
+    background-color: hsl(39, 100%, 35%);
   }
 }
 @media (max-width: 56.24875em) {
@@ -79,8 +79,8 @@ a:active {
   padding: 1rem;
 }
 .grid__widget--magenta {
-  background-color: hsl(300deg, 100%, 30%);
+  background-color: hsl(300, 100%, 30%);
 }
 .grid__widget--green {
-  background-color: hsl(120deg, 100%, 27%);
+  background-color: hsl(120, 100%, 27%);
 }/*# sourceMappingURL=style.css.map */
